@@ -1,0 +1,8 @@
+{
+  "name": "Bahagian C: Kesihatan Diri",
+  "description": "Aplikasi interaktif bertema lebah dan sarang lebah untuk pembelajaran Bahasa Melayu: Bahagian C - Kesihatan Diri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
