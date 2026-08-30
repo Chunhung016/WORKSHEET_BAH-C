@@ -32,7 +32,7 @@ export const DEFAULT_HEALTH_BOXES: HealthCardBox[] = [
     overlayRotation: 0,
     overlayOpacityAdmin: 0.95,
     textBox1: 'belajar dengan tekun',
-    textBox2: 'supaya dapat menggembirakan hari ibu bapa',
+    textBox2: 'supaya dapat menggembirakan hati ibu bapa',
     showTextBoxesInUserMode: false,
   },
   {
@@ -93,7 +93,7 @@ export const DEFAULT_SETTINGS: AppSettings = {
   ],
 };
 
-export const SETTINGS_STORAGE_KEY = 'edu_bee_menghargai_jasa_ibu_bapa_v3';
+export const SETTINGS_STORAGE_KEY = 'edu_bee_menghargai_jasa_ibu_bapa_v4';
 
 export function loadSettings(): AppSettings {
   if (typeof window === 'undefined') return DEFAULT_SETTINGS;
